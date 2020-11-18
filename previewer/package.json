@@ -33,6 +33,6 @@
     "@storybook/react": "^5.1.9",
     "@storybook/storybook-deployer": "^2.8.1",
     "babel-loader": "^8.0.6",
-    "semantic-release": "^15.13.19"
+    "semantic-release": "^17.2.3"
   }
 }
